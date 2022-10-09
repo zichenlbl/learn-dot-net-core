@@ -74,6 +74,7 @@ namespace SwaggerDemo
                 app.UseSwaggerUI(options =>
                 {
                     options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1"); //IIS或反向代理
+                    //访问网址:http://localhost:62449/api/index.html
                     options.RoutePrefix = "api"; //string.Empty; //要在应用的根 (https://localhost:<port>/) 处提供 Swagger UI，请将 RoutePrefix 属性设置为空字符串（string.Empty）
                     //options.InjectStylesheet("/swagger-ui/custom.css"); //自定义 UI 样式文件
                     //options.InjectJavascript("/swagger-ui/zh_CN.js"); // 加载中文包
