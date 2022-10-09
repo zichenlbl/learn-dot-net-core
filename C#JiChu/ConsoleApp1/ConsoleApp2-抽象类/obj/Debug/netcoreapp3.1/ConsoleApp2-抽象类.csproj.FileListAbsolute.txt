@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\bin\Debug\netcoreapp3.1\ConsoleApp2-抽象类.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\bin\Debug\netcoreapp3.1\ConsoleApp2-抽象类.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\bin\Debug\netcoreapp3.1\ConsoleApp2-抽象类.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\bin\Debug\netcoreapp3.1\ConsoleApp2-抽象类.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\bin\Debug\netcoreapp3.1\ConsoleApp2-抽象类.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\bin\Debug\netcoreapp3.1\ConsoleApp2-抽象类.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-抽象类\obj\Debug\netcoreapp3.1\ConsoleApp2-抽象类.csproj.AssemblyReference.cache

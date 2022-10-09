@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\bin\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\bin\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\bin\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\bin\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\bin\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\bin\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-字符串的方法\obj\Debug\netcoreapp3.1\ConsoleApp2-字符串的方法.genruntimeconfig.cache

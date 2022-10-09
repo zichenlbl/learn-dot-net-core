@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\bin\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\bin\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\bin\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\bin\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\bin\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\bin\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.csproj.AssemblyReference.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-简单工厂模式\obj\Debug\netcoreapp3.1\ConsoleApp2-简单工厂模式.genruntimeconfig.cache

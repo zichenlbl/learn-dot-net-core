@@ -1,0 +1,11 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\bin\Debug\WindowsFormsApp2-PictureBox.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\bin\Debug\WindowsFormsApp2-PictureBox.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\bin\Debug\WindowsFormsApp2-PictureBox.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2_PictureBox.Form1.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2_PictureBox.Properties.Resources.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2-PictureBox.csproj.GenerateResource.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2-PictureBox.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2-PictureBox.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2-PictureBox.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2_PictureBox.Form2.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-PictureBox\obj\Debug\WindowsFormsApp2-PictureBox.csproj.AssemblyReference.cache

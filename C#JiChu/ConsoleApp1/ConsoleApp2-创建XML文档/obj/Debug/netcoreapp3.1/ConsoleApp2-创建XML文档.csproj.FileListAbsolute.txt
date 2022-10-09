@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\bin\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\bin\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\bin\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\bin\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\bin\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\bin\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-创建XML文档\obj\Debug\netcoreapp3.1\ConsoleApp2-创建XML文档.genruntimeconfig.cache

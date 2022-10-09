@@ -1,0 +1,10 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\bin\Debug\WindowsFormsApp2-摇奖机.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\bin\Debug\WindowsFormsApp2-摇奖机.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\bin\Debug\WindowsFormsApp2-摇奖机.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2_摇奖机.Form1.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2_摇奖机.Properties.Resources.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2-摇奖机.csproj.GenerateResource.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2-摇奖机.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2-摇奖机.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2-摇奖机.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-摇奖机\obj\Debug\WindowsFormsApp2-摇奖机.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\bin\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\bin\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\bin\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\bin\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\bin\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\bin\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-显示实现接口\obj\Debug\netcoreapp3.1\ConsoleApp2-显示实现接口.genruntimeconfig.cache

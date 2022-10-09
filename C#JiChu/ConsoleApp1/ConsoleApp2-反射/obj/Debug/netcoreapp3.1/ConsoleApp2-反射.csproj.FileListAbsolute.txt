@@ -1,0 +1,17 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\ConsoleApp2-反射.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\ConsoleApp2-反射.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\ConsoleApp2-反射.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\ConsoleApp2-反射.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\ConsoleApp2-反射.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\ConsoleApp2-反射.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.csproj.AssemblyReference.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-反射\obj\Debug\netcoreapp3.1\ConsoleApp2-反射.csproj.CopyComplete

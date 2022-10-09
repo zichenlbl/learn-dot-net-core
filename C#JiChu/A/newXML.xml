@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Name>金瓶梅</Name>
+    <Price>10.5</Price>
+    <Des>
+    </Des>
+    <Item Name="张三" Age="22" />
+  </Book>
+  <Book>
+    <Name>计算机</Name>
+    <Price>15.5</Price>
+    <Des>好看啊</Des>
+  </Book>
+  <Book>
+    <Name>计算机</Name>
+    <Price>15.5</Price>
+    <Des>好看啊</Des>
+  </Book>
+</Books>

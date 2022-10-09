@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\bin\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\bin\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\bin\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\bin\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\bin\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\bin\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-ArrayList集合\obj\Debug\netcoreapp3.1\ConsoleApp2-ArrayList集合.csproj.AssemblyReference.cache

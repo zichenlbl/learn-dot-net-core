@@ -1,0 +1,10 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\bin\Debug\WindowsFormsApp2-Label和TextBox.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\bin\Debug\WindowsFormsApp2-Label和TextBox.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\bin\Debug\WindowsFormsApp2-Label和TextBox.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2_Label和TextBox.Form1.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2_Label和TextBox.Properties.Resources.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2-Label和TextBox.csproj.GenerateResource.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2-Label和TextBox.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2-Label和TextBox.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2-Label和TextBox.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-Label和TextBox\obj\Debug\WindowsFormsApp2-Label和TextBox.csproj.AssemblyReference.cache

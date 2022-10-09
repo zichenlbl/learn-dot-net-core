@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\bin\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\bin\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\bin\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\bin\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\bin\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\bin\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Directory操作目录\obj\Debug\netcoreapp3.1\ConsoleApp2-Directory操作目录.genruntimeconfig.cache

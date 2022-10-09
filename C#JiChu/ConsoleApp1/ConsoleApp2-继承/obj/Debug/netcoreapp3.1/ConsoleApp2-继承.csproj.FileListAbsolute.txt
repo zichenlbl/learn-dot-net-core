@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\bin\Debug\netcoreapp3.1\ConsoleApp2-继承.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\bin\Debug\netcoreapp3.1\ConsoleApp2-继承.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\bin\Debug\netcoreapp3.1\ConsoleApp2-继承.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\bin\Debug\netcoreapp3.1\ConsoleApp2-继承.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\bin\Debug\netcoreapp3.1\ConsoleApp2-继承.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\bin\Debug\netcoreapp3.1\ConsoleApp2-继承.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-继承\obj\Debug\netcoreapp3.1\ConsoleApp2-继承.genruntimeconfig.cache

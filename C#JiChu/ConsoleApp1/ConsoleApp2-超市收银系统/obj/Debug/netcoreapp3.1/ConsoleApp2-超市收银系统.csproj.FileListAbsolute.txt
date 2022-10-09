@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\bin\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\bin\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\bin\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\bin\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\bin\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\bin\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-超市收银系统\obj\Debug\netcoreapp3.1\ConsoleApp2-超市收银系统.genruntimeconfig.cache

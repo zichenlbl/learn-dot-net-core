@@ -1,0 +1,10 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\bin\Debug\WindowsFormsApp2-多线程.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\bin\Debug\WindowsFormsApp2-多线程.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\bin\Debug\WindowsFormsApp2-多线程.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2-多线程.csproj.AssemblyReference.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2_多线程.Form1.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2_多线程.Properties.Resources.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2-多线程.csproj.GenerateResource.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2-多线程.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2-多线程.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-多线程\obj\Debug\WindowsFormsApp2-多线程.pdb

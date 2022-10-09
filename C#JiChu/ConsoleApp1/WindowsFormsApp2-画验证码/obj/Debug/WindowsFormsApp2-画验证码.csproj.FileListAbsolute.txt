@@ -1,0 +1,10 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\bin\Debug\WindowsFormsApp2-画验证码.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\bin\Debug\WindowsFormsApp2-画验证码.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\bin\Debug\WindowsFormsApp2-画验证码.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2-画验证码.csproj.AssemblyReference.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2_画验证码.Form1.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2_画验证码.Properties.Resources.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2-画验证码.csproj.GenerateResource.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2-画验证码.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2-画验证码.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-画验证码\obj\Debug\WindowsFormsApp2-画验证码.pdb

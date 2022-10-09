@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\bin\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\bin\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\bin\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\bin\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\bin\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\bin\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-序列化和反序列化\obj\Debug\netcoreapp3.1\ConsoleApp2-序列化和反序列化.csproj.AssemblyReference.cache

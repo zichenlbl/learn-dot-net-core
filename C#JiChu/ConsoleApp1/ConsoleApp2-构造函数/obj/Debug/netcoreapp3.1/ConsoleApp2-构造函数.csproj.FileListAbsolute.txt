@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\bin\Debug\netcoreapp3.1\ConsoleApp2-构造函数.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\bin\Debug\netcoreapp3.1\ConsoleApp2-构造函数.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\bin\Debug\netcoreapp3.1\ConsoleApp2-构造函数.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\bin\Debug\netcoreapp3.1\ConsoleApp2-构造函数.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\bin\Debug\netcoreapp3.1\ConsoleApp2-构造函数.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\bin\Debug\netcoreapp3.1\ConsoleApp2-构造函数.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-构造函数\obj\Debug\netcoreapp3.1\ConsoleApp2-构造函数.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\bin\Debug\ConsoleApp2-进程类.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\bin\Debug\ConsoleApp2-进程类.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\bin\Debug\ConsoleApp2-进程类.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\obj\Debug\ConsoleApp2-进程类.csproj.AssemblyReference.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\obj\Debug\ConsoleApp2-进程类.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\obj\Debug\ConsoleApp2-进程类.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-进程类\obj\Debug\ConsoleApp2-进程类.pdb

@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\bin\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\bin\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\bin\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\bin\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\bin\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\bin\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-依赖反转\obj\Debug\netcoreapp3.1\ConsoleApp2-依赖反转.csproj.AssemblyReference.cache

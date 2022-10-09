@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\bin\Debug\WindowsFormsApp2-GDI画直线.exe.config
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\bin\Debug\WindowsFormsApp2-GDI画直线.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\bin\Debug\WindowsFormsApp2-GDI画直线.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2_GDI画直线.Form1.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2_GDI画直线.Properties.Resources.resources
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2-GDI画直线.csproj.GenerateResource.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2-GDI画直线.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2-GDI画直线.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2-GDI画直线.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\bin\Debug\Interop.WMPLib.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\bin\Debug\AxInterop.WMPLib.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\Interop.WMPLib.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\AxInterop.WMPLib.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\WindowsFormsApp2-GDI画直线\obj\Debug\WindowsFormsApp2-GDI画直线.csproj.ResolveComReference.cache

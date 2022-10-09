@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\bin\Debug\netcoreapp3.1\ConsoleApp2-FileStream.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\bin\Debug\netcoreapp3.1\ConsoleApp2-FileStream.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\bin\Debug\netcoreapp3.1\ConsoleApp2-FileStream.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\bin\Debug\netcoreapp3.1\ConsoleApp2-FileStream.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\bin\Debug\netcoreapp3.1\ConsoleApp2-FileStream.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\bin\Debug\netcoreapp3.1\ConsoleApp2-FileStream.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.csproj.AssemblyReference.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-FileStream\obj\Debug\netcoreapp3.1\ConsoleApp2-FileStream.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\bin\Debug\netcoreapp3.1\ConsoleApp2-关键字new.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\bin\Debug\netcoreapp3.1\ConsoleApp2-关键字new.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\bin\Debug\netcoreapp3.1\ConsoleApp2-关键字new.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\bin\Debug\netcoreapp3.1\ConsoleApp2-关键字new.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\bin\Debug\netcoreapp3.1\ConsoleApp2-关键字new.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\bin\Debug\netcoreapp3.1\ConsoleApp2-关键字new.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.genruntimeconfig.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-关键字new\obj\Debug\netcoreapp3.1\ConsoleApp2-关键字new.csproj.AssemblyReference.cache

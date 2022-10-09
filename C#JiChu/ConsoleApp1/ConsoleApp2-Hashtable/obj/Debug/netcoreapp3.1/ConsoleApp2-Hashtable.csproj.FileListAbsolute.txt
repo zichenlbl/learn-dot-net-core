@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\bin\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\bin\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\bin\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\bin\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\bin\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\bin\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Hashtable\obj\Debug\netcoreapp3.1\ConsoleApp2-Hashtable.genruntimeconfig.cache

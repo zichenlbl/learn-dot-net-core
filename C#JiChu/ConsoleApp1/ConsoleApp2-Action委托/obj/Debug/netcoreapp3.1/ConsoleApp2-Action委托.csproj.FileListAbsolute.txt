@@ -1,0 +1,13 @@
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\bin\Debug\netcoreapp3.1\ConsoleApp2-Action委托.exe
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\bin\Debug\netcoreapp3.1\ConsoleApp2-Action委托.deps.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\bin\Debug\netcoreapp3.1\ConsoleApp2-Action委托.runtimeconfig.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\bin\Debug\netcoreapp3.1\ConsoleApp2-Action委托.runtimeconfig.dev.json
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\bin\Debug\netcoreapp3.1\ConsoleApp2-Action委托.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\bin\Debug\netcoreapp3.1\ConsoleApp2-Action委托.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.GeneratedMSBuildEditorConfig.editorconfig
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.AssemblyInfoInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.AssemblyInfo.cs
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.csproj.CoreCompileInputs.cache
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.dll
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.pdb
+E:\公司\项目\C#JiChu\ConsoleApp1\ConsoleApp2-Action委托\obj\Debug\netcoreapp3.1\ConsoleApp2-Action委托.genruntimeconfig.cache
